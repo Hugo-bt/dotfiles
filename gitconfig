@@ -60,5 +60,5 @@
 [init]
   defaultBranch = master
 [user]
-	email = 
-	name = exec zsh
+	email = botterman.hugo@gmail.com
+	name = Hugo Botterman
